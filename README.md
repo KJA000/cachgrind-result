@@ -27,3 +27,7 @@ L1 데이터 캐시에 공간이 부족해서 데이터를 메모리로 기록�
 
 DLmw (Last Level Data Cache Miss Write):
 L1 데이터 캐시 및 L2 데이터 캐시에서 공간이 부족해서 데이터를 메모리로 기록해야 할 때 발생하는 횟수
+
+
+
+https://www.notion.so/2-15-119803f843dd4c4cb015a41f81373212?pvs=4
